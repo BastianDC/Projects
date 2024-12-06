@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|c:\\users\\noteb\\source\\repos\\ene-v2\\ene-v2\\trabajadoresfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|solutionrelative:ene-v2\\trabajadoresfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|c:\\users\\noteb\\source\\repos\\ene-v2\\ene-v2\\trabajadoresfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|solutionrelative:ene-v2\\trabajadoresfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|c:\\users\\noteb\\source\\repos\\ene-v2\\ene-v2\\registrosueldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|solutionrelative:ene-v2\\registrosueldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|c:\\users\\noteb\\source\\repos\\ene-v2\\ene-v2\\registrosueldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|solutionrelative:ene-v2\\registrosueldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|c:\\users\\noteb\\source\\repos\\ene-v2\\ene-v2\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|solutionrelative:ene-v2\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|c:\\users\\noteb\\source\\repos\\ene-v2\\ene-v2\\mantenedorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|solutionrelative:ene-v2\\mantenedorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|c:\\users\\noteb\\source\\repos\\ene-v2\\ene-v2\\mantenedorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|solutionrelative:ene-v2\\mantenedorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|c:\\users\\noteb\\source\\repos\\ene-v2\\ene-v2\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49F7BC40-B3A3-4F0D-B6B2-D0E5F6D318B8}|ENE-V2\\ENE-V2.csproj|solutionrelative:ene-v2\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroSueldo.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\RegistroSueldo.cs",
+              "RelativeDocumentMoniker": "ENE-V2\\RegistroSueldo.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\RegistroSueldo.cs",
+              "RelativeToolTip": "ENE-V2\\RegistroSueldo.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowF8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:40:56.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroSueldo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\RegistroSueldo.cs",
+              "RelativeDocumentMoniker": "ENE-V2\\RegistroSueldo.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\RegistroSueldo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ENE-V2\\RegistroSueldo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:38:10.75Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MantenedorUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\MantenedorUsuarios.cs",
+              "RelativeDocumentMoniker": "ENE-V2\\MantenedorUsuarios.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\MantenedorUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ENE-V2\\MantenedorUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:33:17.352Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrabajadoresFrm.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\TrabajadoresFrm.cs",
+              "RelativeDocumentMoniker": "ENE-V2\\TrabajadoresFrm.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\TrabajadoresFrm.cs",
+              "RelativeToolTip": "ENE-V2\\TrabajadoresFrm.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAD4v60AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:31:38.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrabajadoresFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\TrabajadoresFrm.cs",
+              "RelativeDocumentMoniker": "ENE-V2\\TrabajadoresFrm.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\TrabajadoresFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ENE-V2\\TrabajadoresFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:29:29.716Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginFrm.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\LoginFrm.cs",
+              "RelativeDocumentMoniker": "ENE-V2\\LoginFrm.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\LoginFrm.cs",
+              "RelativeToolTip": "ENE-V2\\LoginFrm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:24:29.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MantenedorUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\MantenedorUsuarios.cs",
+              "RelativeDocumentMoniker": "ENE-V2\\MantenedorUsuarios.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\MantenedorUsuarios.cs",
+              "RelativeToolTip": "ENE-V2\\MantenedorUsuarios.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:33:44.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\LoginFrm.cs",
+              "RelativeDocumentMoniker": "ENE-V2\\LoginFrm.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\ENE-V2\\ENE-V2\\LoginFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ENE-V2\\LoginFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:23:21.537Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
